@@ -2,7 +2,7 @@
 /* Base */
 /* -------------------------------------------------- */
 
-@import url(http://fonts.googleapis.com/css?family=Roboto:400,300,500|Roboto+Condensed:400,300|Open+Sans:400italic,400,300,600);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500|Roboto+Condensed:400,300|Open+Sans:400italic,400,300,600);
 
 body {
     font-family: 'Open Sans', sans-serif;
@@ -78,7 +78,7 @@ strong {
 .section-title > .breadcrumb {
     float: right;
     margin-top: 40px;
-    
+
 }
 
 /* Bootstrap */
@@ -220,7 +220,7 @@ background-color: transparent;
 }
 
 .nav-tabs-robotic li {
-	
+
 }
 
 .nav-tabs-robotic li a {
@@ -240,7 +240,7 @@ background-color: transparent;
     transition: all .2s;
     -moz-transition: all .2s;
     -webkit-transition: all .2s;
-	
+
 }
 
 .nav-tabs-robotic li a > i {
@@ -384,7 +384,7 @@ background-color: transparent;
 .panel-robotic > .panel-heading > .panel-title a.collapsed {
     border-top: solid 3px #dce0e8;
     border-bottom: solid 3px #dce0e8;
-    
+
 }
 
 .panel-robotic > .panel-heading > .panel-title a:hover {
@@ -457,13 +457,13 @@ background-color: transparent;
     background: -o-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(220,224,232,1) 100%);
     background: -ms-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(220,224,232,1) 100%);
     background: linear-gradient(to bottom, rgba(255,255,255,1) 0%, rgba(220,224,232,1) 100%);
-    
+
     border-bottom: solid 2px #5ec2ff;
     margin-bottom: 0;
-    
+
 }
 
-@media (min-width: 992px) { 
+@media (min-width: 992px) {
     .navbar-robotic {
         height: 55px;
     }
@@ -603,12 +603,12 @@ ul.navbar-nav-robotic > li.dropdown-menu {
     padding: 20px 0;
     background-color: #082a47;
     background-image: url(../img/f3.jpg);
-    background-position: top center; 
+    background-position: top center;
     background-repeat: repeat-y;
 
     background-size: cover !important;
 
-    
+
 }
 
 .lcd {
@@ -656,7 +656,7 @@ ul.navbar-nav-robotic > li.dropdown-menu {
     text-shadow: none;
     text-align: left;
     padding: 0;
-    
+
 }
 
 #carousel-home .carousel-indicators li {
@@ -806,7 +806,7 @@ ul.navbar-nav-robotic > li.dropdown-menu {
     border-radius: 5px 5px 5px 5px;
     -moz-border-radius: 5px 5px 5px 5px;
     -webkit-border-radius: 5px 5px 5px 5px;
-   
+
     padding: 20px;
 
      border-left: 1px solid #ccc;
@@ -927,7 +927,7 @@ ul.navbar-nav-robotic > li.dropdown-menu {
 .team-home-item > .team-home-footer {
     text-align: center;
 
-    
+
 }
 
 .team-home-item > .team-home-footer a {
@@ -1135,7 +1135,7 @@ ul.navbar-nav-robotic > li.dropdown-menu {
 
 #about-info > .about-item h3 {
     margin: 0;
-    padding: 0 0 10px 0; 
+    padding: 0 0 10px 0;
 }
 
 #about-info > .about-item p {
@@ -1152,7 +1152,7 @@ ul.navbar-nav-robotic > li.dropdown-menu {
 .about-team-item:hover .about-team-item-social {
     visibility: visible;
     opacity: 1;
-    
+
 }
 
 .about-team-item img {
@@ -1522,7 +1522,7 @@ ul.navbar-nav-robotic > li.dropdown-menu {
     margin: auto;
     height: 370px;
     max-width: 400px;
-    
+
 }
 
 #login-form h1 {
